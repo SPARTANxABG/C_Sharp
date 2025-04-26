@@ -1,0 +1,14 @@
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\bin\Debug\net6.0\Exam 1.exe
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\bin\Debug\net6.0\Exam 1.deps.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\bin\Debug\net6.0\Exam 1.runtimeconfig.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\bin\Debug\net6.0\Exam 1.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\bin\Debug\net6.0\Exam 1.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\Exam 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\Exam 1.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\Exam 1.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\Exam 1.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\Exam 1.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\refint\Exam 1.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\Exam 1.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\Exam 1.genruntimeconfig.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Exam\Exam 1\Exam 1\obj\Debug\net6.0\ref\Exam 1.dll
