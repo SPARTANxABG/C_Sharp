@@ -1,0 +1,14 @@
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\bin\Debug\net6.0\Test 2.exe
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\bin\Debug\net6.0\Test 2.deps.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\bin\Debug\net6.0\Test 2.runtimeconfig.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\bin\Debug\net6.0\Test 2.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\bin\Debug\net6.0\Test 2.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\Test 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\Test 2.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\Test 2.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\Test 2.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\Test 2.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\refint\Test 2.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\Test 2.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\Test 2.genruntimeconfig.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Test 2\Test 2\obj\Debug\net6.0\ref\Test 2.dll

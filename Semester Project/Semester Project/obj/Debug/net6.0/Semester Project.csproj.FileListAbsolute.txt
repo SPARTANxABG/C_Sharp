@@ -1,0 +1,14 @@
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\bin\Debug\net6.0\Semester Project.exe
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\bin\Debug\net6.0\Semester Project.deps.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\bin\Debug\net6.0\Semester Project.runtimeconfig.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\bin\Debug\net6.0\Semester Project.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\bin\Debug\net6.0\Semester Project.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\Semester Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\Semester Project.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\Semester Project.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\Semester Project.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\Semester Project.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\refint\Semester Project.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\Semester Project.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\Semester Project.genruntimeconfig.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Semester Project\Semester Project\obj\Debug\net6.0\ref\Semester Project.dll
