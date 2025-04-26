@@ -1,0 +1,14 @@
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\bin\Debug\net6.0\AOlivares_Lab10.exe
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\bin\Debug\net6.0\AOlivares_Lab10.deps.json
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\bin\Debug\net6.0\AOlivares_Lab10.runtimeconfig.json
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\bin\Debug\net6.0\AOlivares_Lab10.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\bin\Debug\net6.0\AOlivares_Lab10.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\AOlivares_Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\AOlivares_Lab10.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\AOlivares_Lab10.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\AOlivares_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\AOlivares_Lab10.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\refint\AOlivares_Lab10.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\AOlivares_Lab10.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\AOlivares_Lab10.genruntimeconfig.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\AOlivares_Lab10\AOlivares_Lab10\obj\Debug\net6.0\ref\AOlivares_Lab10.dll
