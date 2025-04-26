@@ -1,0 +1,18 @@
+C:\Users\Andres\Desktop\Survey Programming Languages\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Survey Programming Languages\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Survey Programming Languages\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\bin\Debug\net6.0\SimpleMath.exe
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\bin\Debug\net6.0\SimpleMath.deps.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\bin\Debug\net6.0\SimpleMath.runtimeconfig.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\bin\Debug\net6.0\SimpleMath.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\bin\Debug\net6.0\SimpleMath.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\refint\SimpleMath.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\SimpleMath.genruntimeconfig.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 2\SimpleMath\SimpleMath\obj\Debug\net6.0\ref\SimpleMath.dll

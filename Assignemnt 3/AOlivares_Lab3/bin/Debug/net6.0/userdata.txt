@@ -1,0 +1,4 @@
+name: Andres Olivares
+Gender: M
+Age: 27
+Salary: 30000
