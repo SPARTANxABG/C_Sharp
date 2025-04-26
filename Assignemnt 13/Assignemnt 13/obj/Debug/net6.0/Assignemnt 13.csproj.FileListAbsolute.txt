@@ -1,0 +1,14 @@
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\bin\Debug\net6.0\Assignemnt 13.exe
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\bin\Debug\net6.0\Assignemnt 13.deps.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\bin\Debug\net6.0\Assignemnt 13.runtimeconfig.json
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\bin\Debug\net6.0\Assignemnt 13.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\bin\Debug\net6.0\Assignemnt 13.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\Assignemnt 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\Assignemnt 13.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\Assignemnt 13.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\Assignemnt 13.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\Assignemnt 13.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\refint\Assignemnt 13.dll
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\Assignemnt 13.pdb
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\Assignemnt 13.genruntimeconfig.cache
+C:\Users\Andres\Desktop\Survey Programming Languages\Assignemnt 13\Assignemnt 13\obj\Debug\net6.0\ref\Assignemnt 13.dll
